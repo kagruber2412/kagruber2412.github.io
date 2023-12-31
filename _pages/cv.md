@@ -13,21 +13,28 @@ Education
 ======
 * PhD, Economics and Social Sciences, WU Vienna University of Business and Economics, 2018
 * BSc, Mathematics and Statistics, University of Vienna, 2013
-* Mag.rer.nat. (MSc equivalent), Quantitative Psychology, University of Vienna, 2008
+* Mag.rer.nat. (MSc equivalent), Quantitative Psychology, University of Vienna, 2009
 
-Work experience
+Academic Positions
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Assistant Professor (tenure track), 2018 - present.\\
+Department of Econometrics,\\ 
+Erasmus School of Economics, Erasmus University Rotterdam.\\
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research and Teaching Associate, 2012–2018.\\
+Department of Marketing, \\
+WU Vienna University of Economics and Business.\\
+
+* Research Assistant, 2010–2012.\\
+Department of Finance, Accounting and Statistics,\\ 
+WU Vienna University of Economics and Business.\\
+
+* Research Assistant, 2007–2008.\\
+Department of Applied Psychology,\\
+Faculty of Psychology, University of Vienna.\\
+
   
-Services 
+Services to the Field
 ======
 * Organizer of the 9th International Workshop on Psychometric Computing (February 9–10, 2017), Vienna, Austria. 
 	<a href="https://pages.github.com">www.psychoco.org>
