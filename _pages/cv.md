@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD, Economics and Social Sciences, WU Vienna University of Business and Economics, 2018
+* BSc, Mathematics and Statistics, University of Vienna, 2013
+* Mag.rer.nat. (MSc equivalent), Quantitative Psychology, University of Vienna, 2008
 
 Work experience
 ======
@@ -27,33 +27,16 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Services 
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Organizer of the 9th International Workshop on Psychometric Computing (February 9–10, 2017), Vienna, Austria. 
+	<a href="https://pages.github.com">www.psychoco.org>
 
-Publications
+Skills and Expertise
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Programming languages: R, JavaScript, C++, Phyton
+* Human languages: Austrian / German (native), English (fluent), Dutch (passive), French, Italian
+
+My full CV can be found here.
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
