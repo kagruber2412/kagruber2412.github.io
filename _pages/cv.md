@@ -17,21 +17,13 @@ Education
 
 Academic Positions
 ======
-* Assistant Professor (tenure track), 2018 - present.\\
-Department of Econometrics,\\ 
-Erasmus School of Economics, Erasmus University Rotterdam.\\
+* Assistant Professor (with tenure), Department of Econometrics, Erasmus School of Economics, Erasmus University Rotterdam, 2018-present.
 
-* Research and Teaching Associate, 2012–2018.\\
-Department of Marketing, \\
-WU Vienna University of Economics and Business.\\
+* Research and Teaching Associate, Department of Marketing, WU Vienna University of Economics and Business 2012–2018.
 
-* Research Assistant, 2010–2012.\\
-Department of Finance, Accounting and Statistics,\\ 
-WU Vienna University of Economics and Business.\\
+* Research Assistant, Department of Finance, Accounting and Statistics, WU Vienna University of Economics and Business, 2010–2012.
 
-* Research Assistant, 2007–2008.\\
-Department of Applied Psychology,\\
-Faculty of Psychology, University of Vienna.\\
+* Research Assistant, Department of Applied Psychology, University of Vienna, 2007–2008.
 
   
 Services to the Field
