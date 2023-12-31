@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2022/AH-Post/](https://blog.ah.technology/attention-based-neural-networks-in-recommender-systems-albert-heijn-erasmus-university-case-study-4de9dbb02e8e)
+title: 'Attention-based Neural Networks in Recommender Systems — Albert Heijn/Erasmus University case study'
+date: 2022-05-30
+permalink: /posts/Post-1/
 tags:
   - Albert Heijn
   - Erasmus University
