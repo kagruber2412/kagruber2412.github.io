@@ -1,7 +1,5 @@
 ---
 title: " "
-date: 2015
-venue: "Proceedings of the National Academy of Sciences"
 collection: publications
 permalink: /publication/PNAS
 paperurl: '[http://www.pnas.org/content/112/48/14788.full](http://www.pnas.org/content/112/48/14788.full)'
