@@ -1,10 +1,13 @@
 ---
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/PNAS
+paperurl: '[http://academicpages.github.io/files/paper2.pdf](http://www.pnas.org/content/112/48/14788.full)'
+citation: 'Mair, P., Hofmann, E., Gruber, K., Hatzinger, R., Zeileis, A. & Hornik, K. (2015). Motivation, values, and work design as drivers of participation in the R open source project for statistical computing. <em>Proceedings of the National Academy of Sciences</em>, 112 (48), 14788–14792. <a href="http://www.pnas.org/content/112/48/14788.full"><i class="fa fa-external-link-square fa-inverse"></i></a>'
 ---
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Mair, P., Hofmann, E., Gruber, K., Hatzinger, R., Zeileis, A. & Hornik, K. (2015). 
+Motivation, values, and work design as drivers of participation in the R open source project for statistical computing. 
+<em>Proceedings of the National Academy of Sciences</em>, 112 (48), 14788–14792. 
+<a href="http://www.pnas.org/content/112/48/14788.full"><i class="fa fa-external-link-square fa-inverse"></i></a>
