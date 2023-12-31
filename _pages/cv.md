@@ -37,14 +37,13 @@ Services to the Field
 ======
 Conferences
 ------
-* Organizer of the 9th International Workshop on Psychometric Computing (February 9–10, 2017), Vienna, Austria. 
-	<a href="https://pages.github.com">www.psychoco.org>
+* Organizer of the 9th International Workshop on Psychometric Computing (February 9–10, 2017), Vienna, Austria. (www.psychoco.org) 
 * Organizer of the 16th International Workshop on Psychometric Computing (February 29-March 1, 2024), Rotterdam, The Netherlands.
   
 Services
 ------
 * Maintainer, Psychometric Task View (ADD HERE URL)
-* Board Member, Dutch/ Flemisch Classification Society (Vereniging voor Ordinatie en Classificatie, \url{https://voc.ac/meeting/})
+* Board Member, Dutch/ Flemisch Classification Society (Vereniging voor Ordinatie en Classificatie, https://voc.ac/meeting/)
 
 Refereeing
 ------
