@@ -1,7 +1,7 @@
 ---
-title: 'Attention-based Neural Networks in Recommender Systems — Albert Heijn/Erasmus University case study'
+title: 'Attention-based Neural Networks in Recommender Systems'
 date: 2022-05-30
-permalink: /posts/Post-1/
+permalink: /posts/blog-post-1/
 tags:
   - Albert Heijn
   - Erasmus University
