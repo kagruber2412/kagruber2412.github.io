@@ -28,8 +28,7 @@ Academic Positions
   Department of Finance, Accounting and Statistics, WU Vienna University of Economics and Business,
   Vienna, Austria.
 
-* Research Assistant, 2007–2008.
-  
+* Research Assistant, 2007–2008.  
   Department of Applied Psychology, University of Vienna,
   Vienna, Austria.
 
