@@ -10,6 +10,19 @@ redirect_from:
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
+
+I'm an assistant professor at the Department of Econometrics of Erasmus University Rotterdam. 
+My fields of expertise are <b>quantitative marketing</b>, <b>psychometric methods</b> and <b>computational statistics</b>.</p>
+
+My research mainly focuses on <b>latent variable models</b>
+(that is, additive mixed models, graphical regression and block-recursive graphical models) and 
+their computational efficient estimation using <b>Bayesian</b> and <b>approximate methods</b> (expectation propagation/variational inference; Laplace approximation). 
+I'm also working on topics related to <b>Machine Learning</b> (importance scores, attention, anomaly detection).</p>
+	    
+On this site you can find more information on my <a href="research.html">recent research</a>, <a href="research.html">puplications</a>, 
+<a href="teaching.html">teaching activities</a> and <a href="software.html">CV</a>. </p>    
+
+<!--
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -44,6 +57,7 @@ Many people use a git client to create files on their local computer and then pu
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
+-->
 
 For more info
 ------
