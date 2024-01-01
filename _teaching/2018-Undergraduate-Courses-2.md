@@ -3,9 +3,9 @@ title: "Undergraduate Courses at EUR"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-Undergraduate-Courses-2
-venue: "University 1, Department"
+venue: "Erasmus University Rotterdam, Department of Econometrics"
 date: 2018-01-01
-location: "City, Country"
+location: "Rotterdam, The Netherlands"
 ---
 
 Master
