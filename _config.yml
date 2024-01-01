@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kathrin Gruber"
   avatar           : "profile.png"
-  bio              : "Assistant Professor, Department of Econometrics, Erasmus School of Economics"
+  bio              : "Assistant Professor, <a href='https://www.eur.nl/en/ese/department-econometrics'>Department of Econometrics</a>, <a href='https://www.eur.nl/en/ese'>Erasmus School of Economics</a>"
   location         : 
   employer         : "Erasmus University Rotterdam"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
