@@ -8,13 +8,14 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Master
+------
 
-Heading 1
-======
+* [Marketing Research Design and Analysis](https://learn.wu.ac.at/vvz/17s/5308)
+* [Introduction to Programming with R](https://learn.wu.ac.at/vvz/17s/5308)
+* [Programming for Data Science and Marketing Analytics](https://courses.eur.nl/#/2018-2019/detail/FEM11151) [Codes](https://github.com/kagruber2412/RIntroduction)[Slides](https://github.com/kagruber2412/RIntroduction/tree/master/Slides)
 
-Heading 2
-======
-
-Heading 3
-======
+Bachelor
+------
+* [Statistics for Economics and Socio-Economics with R](https://learn.wu.ac.at/vvz/16s/4992)
+* [Marketing Research](https://learn.wu.ac.at/vvz/17w/0063) [Codes](https://github.com/kagruber2412/Marketing_Research),[Slides](https://github.com/kagruber2412/Marketing_Research/tree/master/Slides)
