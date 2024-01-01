@@ -16,26 +16,26 @@ Education
 
 Academic Positions
 ------
-* Assistant Professor (with tenure), 2018-present.
-  Department of Econometrics, Erasmus School of Economics, Erasmus University Rotterdam,
+* Assistant Professor (with tenure), 2018-present.<br>
+  Department of Econometrics, Erasmus School of Economics, Erasmus University Rotterdam,<br>
   Rotterdam, The Netherlands. 
 
-* Research and Teaching Associate, 2012–2018.
-  Department of Marketing, WU Vienna University of Economics and Business,
+* Research and Teaching Associate, 2012–2018.<br>
+  Department of Marketing, WU Vienna University of Economics and Business,<br>
   Vienna, Austria.
 
-* Research Assistant, 2010–2012.
-  Department of Finance, Accounting and Statistics, WU Vienna University of Economics and Business,
+* Research Assistant, 2010–2012.<br>
+  Department of Finance, Accounting and Statistics, WU Vienna University of Economics and Business,<br>
   Vienna, Austria.
 
-* Research Assistant, 2007–2008.  
-  Department of Applied Psychology, University of Vienna,
+* Research Assistant, 2007–2008.<br>  
+  Department of Applied Psychology, University of Vienna,<br>
   Vienna, Austria.
 
 Conferences
 ------
-* Organizer of the 9th International Workshop on Psychometric Computing (February 9–10, 2017), Vienna, Austria. `([www.psychoco.org/2017](https://www.psychoco.org/2017/index.html))` 
-* Organizer of the 16th International Workshop on Psychometric Computing (February 29-March 1, 2024), Rotterdam, The Netherlands. `([www.psychoco.org/2024/](https://www.psychoco.org/2024/index.html))`
+* Organizer of the 9th International Workshop on Psychometric Computing (February 9–10, 2017), Vienna, Austria. ([www.psychoco.org/2017](https://www.psychoco.org/2017/index.html)) 
+* Organizer of the 16th International Workshop on Psychometric Computing (February 29-March 1, 2024), Rotterdam, The Netherlands. ([www.psychoco.org/2024/](https://www.psychoco.org/2024/index.html))
   
 Services
 ------
