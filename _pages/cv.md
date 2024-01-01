@@ -34,13 +34,13 @@ Academic Positions
 
 Conferences
 ------
-* Organizer of the 9th International Workshop on Psychometric Computing (February 9–10, 2017), Vienna, Austria. [www.psychoco.org/2017/](www.psychoco.org/2017/) 
-* Organizer of the 16th International Workshop on Psychometric Computing (February 29-March 1, 2024), Rotterdam, The Netherlands. [www.psychoco.org/2024/](www.psychoco.org/2024/) 
+* Organizer of the 9th International Workshop on Psychometric Computing (February 9–10, 2017), Vienna, Austria. `([www.psychoco.org/2017](https://www.psychoco.org/2017/index.html))` 
+* Organizer of the 16th International Workshop on Psychometric Computing (February 29-March 1, 2024), Rotterdam, The Netherlands. `([www.psychoco.org/2024/](https://www.psychoco.org/2024/index.html))`
   
 Services
 ------
-* Maintainer, Psychometric Task View (ADD HERE URL)
-* Board Member, Dutch/ Flemisch Classification Society ([Vereniging voor Ordinatie en Classificatie](https://voc.ac))
+* [Psychometric Task View](addhereurl): Maintainer.
+* Dutch/ Flemisch Classification Society ([Vereniging voor Ordinatie en Classificatie](https://voc.ac)): Board Member.
 
 Refereeing
 ------
@@ -52,6 +52,6 @@ Skills and Expertise
 * Programming languages: R, JavaScript, C++, Phyton
 * Human languages: Austrian / German (native), English (fluent), Dutch (passive), French, Italian
 
-My full CV can also be downloaded [here](url).
+My full CV can also be downloaded [here](addhereurl).
   
 
