@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kathrin Gruber"
+  name             : "Assistant Professor"
   avatar           : "profile.png"
-  bio              : "Assistant Professor, <a href='https://www.eur.nl/en/ese/department-econometrics'>Department of Econometrics</a>, <a href='https://www.eur.nl/en/ese'>Erasmus School of Economics</a>"
+  bio              : "<a href='https://www.eur.nl/en/ese/department-econometrics'>Department of Econometrics</a>, <a href='https://www.eur.nl/en/ese'>Erasmus School of Economics</a>, <a href='https://www.eur.nl/en'>Erasmus University Rotterdam</a>"
   location         : 
   employer         : "Erasmus University Rotterdam"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
