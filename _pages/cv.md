@@ -39,8 +39,9 @@ Conferences
   
 Services
 ------
-* [Psychometric Task View](addhereurl): Maintainer.
-* Dutch/ Flemisch Classification Society ([Vereniging voor Ordinatie en Classificatie](https://voc.ac)): Board Member.
+* [Psychometric Task View](https://CRAN.R-project.org/view=Psychometrics): Maintainer.
+* Dutch/ Flemisch Classification Society ([Vereniging voor Ordinatie en Classificatie](https://voc.ac)): Board member.
+* [Journal of Statistical Software](https://www.jstatsoft.org/index): Editorial board member.
 
 Refereeing
 ------
