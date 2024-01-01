@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kathrin Gruber / Site Title"
+title                    : "Kathrin Gruber"
 title_separator          : "-"
 name                     : &name "Kathrin Gruber"
 description              : &description "Assistan Professor"
