@@ -8,7 +8,7 @@ date: 2018-01-01
 location: "Rotterdam, The Netherlands"
 ---
 
-At Erasmus University Rotterdam, I mainly teach classes on statistical programming and statistical learning in the Business Analytics and Quantitative Marketing specialisation of the Econometrics Master Programme and in the Data Science and Marketing Analytics master. I am also the thesis coordinator of the Business Analytics and Quantitative Marketing track of the programme. 
+At Erasmus University Rotterdam, I mainly teach classes on statistical programming and statistical learning in the Econometrics Master Programme and in the Data Science and Marketing Analytics master. I am also the thesis coordinator of the Business Analytics and Quantitative Marketing track of the Econometrics programme. 
 
 Master
 ------
