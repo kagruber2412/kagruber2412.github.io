@@ -1,7 +1,7 @@
 ---
-title: "Undergraduate Courses at EUR"
+title: "Courses at EUR"
 collection: teaching
-type: "Undergraduate course"
+type: "Course"
 permalink: /teaching/2018-Undergraduate-Courses-2
 venue: "Erasmus University Rotterdam, Department of Econometrics"
 date: 2018-01-01
@@ -13,3 +13,6 @@ At Erasmus University Rotterdam, I mainly teach classes on statistical programmi
 * [Programming for Data Science and Marketing Analytics](https://courses.eur.nl/#/2018-2019/detail/FEM11151) [[Codes](https://github.com/kagruber2412/RIntroduction), [Slides](https://github.com/kagruber2412/RIntroduction/tree/master/Slides)]
 * [Seminar Case Studies in Quantitative Marketing](url)
 
+Additionally, I teach a Ph.D. course at Erasmus Graduate School of the Scocial Sciences and Humanities. Here, I focus more on the statistical analysis capabilities of R (i.e., univariate, grouped and nested as well as multivariate models):
+
+* Introduction to Programming in R
