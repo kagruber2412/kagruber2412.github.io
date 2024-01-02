@@ -46,7 +46,7 @@ Services
 
 Refereeing
 ======
-Journal of Statistical Software, BMC Bioinformatics, Journal of Data Science Statistics and Visualizations.
+Journal of Statistical Software, BMC Bioinformatics, Journal of Data Science Statistics and Visualizations, Journal of Population Aging.
 
 Skills and Expertise
 ======
