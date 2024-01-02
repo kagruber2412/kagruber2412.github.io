@@ -34,7 +34,8 @@ Academic Positions
 
 Conferences
 ======
-* Organizer of the 9th International Workshop on Psychometric Computing (February 9–10, 2017), Vienna, Austria. ([www.psychoco.org/2017](https://www.psychoco.org/2017/index.html)) 
+* Organizer of the 9th International Workshop on Psychometric Computing (February 9–10, 2017), Vienna, Austria. ([www.psychoco.org/2017](https://www.psychoco.org/2017/index.html))
+* Organizer of the 11th meeting of the Vereniging voor Ordinatie en Classificatie (June, 2023), Rotterdam, The Netherlands. 
 * Organizer of the 16th International Workshop on Psychometric Computing (February 29-March 1, 2024), Rotterdam, The Netherlands. ([www.psychoco.org/2024](https://www.psychoco.org/2024/index.html))
   
 Services
