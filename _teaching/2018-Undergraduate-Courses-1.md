@@ -1,7 +1,7 @@
 ---
-title: "Undergraduate Courses at WU Vienna"
+title: "Courses at WU Vienna"
 collection: teaching
-type: "Undergraduate course"
+type: "Course"
 permalink: /teaching/2018-Undergraduate-Courses-1
 venue: "WU Vienna University of Business and Economics, Department of Marketing"
 date: 2018-01-01
