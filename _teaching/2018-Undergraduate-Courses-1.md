@@ -8,7 +8,7 @@ date: 2018-01-01
 location: "Vienna, Austria"
 ---
 
-During my Phd time at WU Vienna University of Business and Economics, I also had quite some teaching duties: I designed and provided several courses on statistical analysis and statistical programming in the marketing [master](https://www.wu.ac.at/en/marketing/teaching/master-program/) and [bachelor](https://www.wu.ac.at/en/marketing/teaching/sbwls/) specialisations. The full list of courses can be found below. Syllabi and course descriptions can be accessed via the embedded links. 
+During my Phd time at WU Vienna University of Business and Economics, I also had quite some teaching duties: I designed and provided several courses on statistical analysis and statistical programming in the marketing [master](https://www.wu.ac.at/en/marketing/teaching/master-program/) and [bachelor](https://www.wu.ac.at/en/marketing/teaching/sbwls/) specialisations.<br>The full list of courses can be found below. Syllabi and course descriptions can be accessed via the embedded links. 
 
 * [Marketing Research Design and Analysis](https://learn.wu.ac.at/vvz/17s/5308)
 * [Introduction to Programming with R](https://learn.wu.ac.at/vvz/17s/5308)
