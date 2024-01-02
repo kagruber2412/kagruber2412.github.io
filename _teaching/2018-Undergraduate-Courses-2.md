@@ -12,7 +12,6 @@ Currently, I mainly teach classes on statistical programming and statistical lea
 <p style="margin:0;line-height:0;height:0"></p>
 The full list of past and present courses can be found below. Syllabi and course descriptions can be accessed via the embedded links. Feel free to disseminate any of the available course material.
 
-
 * [Programming for Data Science and Marketing Analytics](https://www.eur.nl/en/master/data-science-and-marketing-analytics/programme-overview) [[Codes](https://github.com/kagruber2412/RIntroduction), [Slides](https://github.com/kagruber2412/RIntroduction/tree/master/Slides)]
 * [Seminar Case Studies in Business Analytics and Quantitative Marketing](https://www.eur.nl/en/master/business-analytics-and-quantitative-marketing/programme-overview)
 * [Data analysis with R](https://www.eur.nl/en/egsh/course/data-analysis-r)
