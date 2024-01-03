@@ -11,7 +11,10 @@ redirect_from:
 I'm an assistant professor at the Department of Econometrics at Erasmus University Rotterdam. 
 My fields of expertise are <b>quantitative marketing</b>, <b>psychometric methods</b> and <b>computational statistics</b>.
 
-My research mainly focuses on latent variable models (that is, linear and nonlinear mixed models, block-recursive graphical models) and their computational efficient estimation within probabilistic formulations such as exact Bayesian and approximate variational methods. I'm also working on topics related to <b>Probabilistic Machine Learning</b> (importance scores, attention, anomaly detection).	
+My research mainly focuses on latent variable models (that is, linear and nonlinear mixed models, block-recursive graphical models) and their computational efficient estimation within probabilistic formulations such as exact Bayesian and approximate variational methods. I'm also working on topics related to
+(1) feature attribution (LIME, Lift, Shapley Values), 
+(2) uncertainty quantification with probabilistic neural networks and deep ensembles, 
+(3) Bayesian estimation of large scale/ high dimensional panel regression models.
 
 On this site you can find more information on my [puplications](url) and most [recent research](url), 
 [teaching activities](url) and [CV](url).  
