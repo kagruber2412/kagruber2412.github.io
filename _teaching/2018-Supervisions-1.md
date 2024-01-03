@@ -8,4 +8,4 @@ date: 2018-04-01
 location: "Rotterdam, The Netherlands"
 ---
 
-I am co-promoting the PhD student Markus Mueller together with Prof. Dr. Dennis Fok on [Denoising Diffusion Probabilistic Neural Networks for mixed type tabular data](url) (second year). 
+I am co-promoting the PhD student Markus Mueller (second year) together with Prof. Dr. Dennis Fok on [Denoising Diffusion Probabilistic Neural Networks for mixed type tabular data](url). 
