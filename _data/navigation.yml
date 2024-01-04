@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Research"
-    url: /pages/publications.html
+    url: /pages/research.html
 
   - title: "Presentations"
-    url: /talks/    
+    url: /presentations/    
 
   - title: "Teaching & Supervision"
     url: /teaching/    
