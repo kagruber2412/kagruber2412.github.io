@@ -10,7 +10,7 @@ redirect_from:
 
 I'm an assistant professor at the Department of Econometrics at Erasmus University Rotterdam. 
 
-In general, my field of research is <b>applied econometrics</b> and in particular, the combination of <b>quantitative marketing</b> and <b>psychometric methods</b>. This includes models for decisions at the individual as well as the aggregated level. Methodologically, my main focus is on latent variable models and their computational efficient estimation within probabilistic formulations such as <b>exact Bayesian</b> and <b>approximate variational</b> methods. I'm also working on topics related to prior specifications and auxiliary information, uncertainty quantification in predictions (quantile models, deep ensembles, probabilistic neural networks) and feature attribution methods (Lift and Shapley Values in particular).
+In general, my field of research is <b>applied econometrics</b> and in particular, the combination of <b>quantitative marketing</b> and <b>psychometric methods</b>. As such I focus on models for decisions at the individual as well as the aggregated level and their computational efficient estimation within probabilistic formulations such as <b>exact Bayesian</b> and <b>approximate variational</b> methods. I'm also working on topics related to prior specifications and auxiliary information, uncertainty quantification in predictions (quantile models, deep ensembles, probabilistic neural networks) and feature attribution methods (Lift and Shapley Values in particular).
 
 On this site you can find more information on my [research](url) (puplications, working papers), 
 [teaching activities](url) and [CV](url).  
