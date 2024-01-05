@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+My full CV can also be downloaded [here](addhereurl).
+
 <h2>Education</h2>
 
 * PhD, Economics and Social Sciences, WU Vienna University of Business and Economics, 2018.
@@ -54,6 +56,5 @@ Skills and Expertise
 * Programming languages: R, JavaScript, C++, Phyton
 * Human languages: Austrian / German (native), English (fluent), Dutch (passive), French, Italian
 
-My full CV can also be downloaded [here](addhereurl).
   
 
