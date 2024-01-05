@@ -17,8 +17,9 @@ My full CV can also be downloaded [here](addhereurl).
 * BSc, Mathematics and Statistics, University of Vienna, 2013.
 * Mag.rer.nat. (MSc equivalent), Quantitative Psychology, University of Vienna, 2009
 
-Academic Positions
-======
+
+<h2>Academic Positions</h2>
+
 * Assistant Professor (with tenure), 2018-present.<br>
   Department of Econometrics, Erasmus School of Economics, Erasmus University Rotterdam,<br>
   Rotterdam, The Netherlands. 
@@ -35,24 +36,28 @@ Academic Positions
   Department of Applied Psychology, University of Vienna,<br>
   Vienna, Austria.
 
-Conferences
-======
+
+<h2>Conferences</h2>
+
 * Organizer of the 9th International Workshop on Psychometric Computing (February 9–10, 2017), Vienna, Austria. ([www.psychoco.org/2017](https://www.psychoco.org/2017/index.html))
 * Organizer of the 11th meeting of the Vereniging voor Ordinatie en Classificatie (June, 2023), Rotterdam, The Netherlands. 
 * Organizer of the 16th International Workshop on Psychometric Computing (February 29-March 1, 2024), Rotterdam, The Netherlands. ([www.psychoco.org/2024](https://www.psychoco.org/2024/index.html))
+
   
-Services
-======
+<h2>Services</h2>
+
 * [Psychometric Task View](https://CRAN.R-project.org/view=Psychometrics): Maintainer.
 * [Vereniging voor Ordinatie en Classificatie](https://voc.ac) (Dutch/ Flemisch Classification Society): Board member.
 * [Journal of Statistical Software](https://www.jstatsoft.org/index): Editorial board member.
 
-Refereeing
-======
+
+<h2>Refereeing</h2>
+
 Journal of Statistical Software, BMC Bioinformatics, Journal of Data Science Statistics and Visualizations, Journal of Population Aging.
 
-Skills and Expertise
-======
+
+<h2>Skills and Expertise</h2>
+
 * Programming languages: R, JavaScript, C++, Phyton
 * Human languages: Austrian / German (native), English (fluent), Dutch (passive), French, Italian
 
