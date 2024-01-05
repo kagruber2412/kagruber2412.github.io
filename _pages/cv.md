@@ -8,8 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+<h2>Education</h2>
+
 * PhD, Economics and Social Sciences, WU Vienna University of Business and Economics, 2018.
 * BSc, Mathematics and Statistics, University of Vienna, 2013.
 * Mag.rer.nat. (MSc equivalent), Quantitative Psychology, University of Vienna, 2009
