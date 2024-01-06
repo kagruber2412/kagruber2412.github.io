@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About"
+title: "Welcome"
+excerpt: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm an assistant professor at the Department of Econometrics at Erasmus University Rotterdam. 
+I'm an assistant professor at the Department of Econometrics at Erasmus University Rotterdam. I graduated in Psychology and Statistics from University of Vienna and I optained a PhD in Quantitative Marketing from Vienna University of Economics and Business.
 
 In general, my field of research is <b>applied econometrics</b> and in particular, the combination of <b>quantitative marketing</b> and <b>psychometric methods</b>. As such, I focus on models for decisions at the individual as well as the aggregated level, and their computational efficient estimation within probabilistic (i.e., <b>Bayesian</b>) formulations. I'm also working on topics related to auxiliary information and prior specifications, uncertainty quantification in predictions (quantile models, deep ensembles, probabilistic neural networks) and feature importance attribution methods (insertion and deletion metrics and Shapley values in particular).
 
