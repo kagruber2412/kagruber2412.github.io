@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full CV can also be downloaded [here](addhereurl).
+Below, you find a short description on my background (education, appointments), my academic activities, and (some notable) skills and expertise. You can also download my full CV [here](addhereurl).
 
 <h2>Education</h2>
 
@@ -56,7 +56,7 @@ My full CV can also be downloaded [here](addhereurl).
 Journal of Statistical Software, BMC Bioinformatics, Journal of Data Science Statistics and Visualizations, Journal of Population Aging.
 
 
-<h2>Skills and Expertise</h2>
+<h2>Skills and Expertises</h2>
 
 * Programming languages: R, JavaScript, C++, Phyton
 * Human languages: Austrian / German (native), English (fluent), Dutch (passive), French, Italian
