@@ -2,7 +2,7 @@
 title: "Supervisions"
 collection: teaching
 type: "PhD Supervisions"
-permalink: /teaching/2018-Supervisions-1
+permalink: /teaching/2022-Supervisions-1
 venue: "Erasmus University Rotterdam, Department of Econometrics"
 date: 2022-01-01
 location: "Rotterdam, The Netherlands"
