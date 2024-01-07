@@ -13,9 +13,9 @@ Below, you find a short description on my background (education, appointments), 
 
 <h2>Education</h2>
 
-* PhD, Economics and Social Sciences, WU Vienna University of Business and Economics, 2018.
-* BSc, Mathematics and Statistics, University of Vienna, 2013.
-* Mag.rer.nat. (MSc equivalent), Quantitative Psychology, University of Vienna, 2009
+* PhD, Economics and Social Sciences, [WU Vienna University of Business and Economics](https://www.wu.ac.at/en/), 2018.
+* BSc, Mathematics and Statistics, [University of Vienna](https://www.univie.ac.at/en/), 2013.
+* Mag.rer.nat. (MSc equivalent), Quantitative Psychology, [University of Vienna](https://www.univie.ac.at/en/), 2009
 
 
 <h2>Academic Positions</h2>
