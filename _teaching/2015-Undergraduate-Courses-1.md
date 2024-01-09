@@ -1,5 +1,5 @@
 ---
-title: "Courses at WU Vienna"
+title: "Courses at WU"
 collection: teaching
 type: "Undergraduate Courses"
 permalink: /teaching/2013-Undergraduate-Courses-1
