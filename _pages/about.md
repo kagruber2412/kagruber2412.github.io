@@ -12,7 +12,7 @@ I'm an assistant professor at the Department of Econometrics at [Erasmus Univers
 
 Accordingly, my field of research is <b>applied econometrics</b> and in particular, the combination of <b>quantitative marketing</b> and <b>psychometric methods</b>. As such, I focus on individual as well as aggregated level decision models and their computational efficient estimation within probabilistic (<b>Bayesian</b>) formulations. I'm also working on topics related to auxiliary information and prior specifications, uncertainty quantification in predictions (quantile models, deep ensembles, probabilistic neural networks) and feature importance attribution methods (insertion and deletion metrics, Shapley values in particular).
 
-On this site you can find more information on my [research](https://kagruber2412.github.io/pages/research.html) (puplications, working papers), [teaching activities](https://kagruber2412.github.io/teaching/) and [CV](https://kagruber2412.github.io/cv/).  
+On this site you can find more information on my [research](https://kagruber2412.github.io/pages/research.html) (puplications, working papers), my [teaching activities](https://kagruber2412.github.io/teaching/) and [CV](https://kagruber2412.github.io/cv/).  
 
 
 <!--
