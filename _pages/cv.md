@@ -58,7 +58,7 @@ Journal of Statistical Software, BMC Bioinformatics, Journal of Data Science Sta
 
 <h2>Skills and Expertises</h2>
 
-* Programming languages: R, C++, Phyton, JavaScript (obviously, also a bit LaTeX, Markdown, Git ...)
+* Programming languages: R, C++, C, Phyton, JavaScript (others: TeX/LaTeX, Markdown, ...)
 * Human languages: Austrian / German (native), English (fluent), Dutch (passive), French, Italian
 
   
