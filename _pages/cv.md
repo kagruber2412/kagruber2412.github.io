@@ -15,7 +15,7 @@ Below, you find a short description on my background, my academic activities, an
 
 * PhD, Economics and Social Sciences, [WU Vienna University of Business and Economics](https://www.wu.ac.at/en/), 2018.
 * BSc, Mathematics and Statistics, [University of Vienna](https://www.univie.ac.at/en/), 2013.
-* Mag.rer.nat. (MSc equivalent), Quantitative Psychology, [University of Vienna](https://www.univie.ac.at/en/), 2009
+* Mag.rer.nat. (MSc equivalent), Quantitative Psychology, [University of Vienna](https://www.univie.ac.at/en/), 2009.
 
 
 <h2>Academic Positions</h2>
