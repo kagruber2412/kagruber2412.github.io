@@ -16,7 +16,7 @@ I'm Kathrin and I'm an [Assistant Professor](https://www.eur.nl/people/kathrin-g
 
 Accordingly, my field of research is <b>Applied Econometrics</b> and in particular, the combination of <b>Quantitative Marketing</b> and <b>Psychometric Methods</b>. This includes statistical models for decisions at the individual as well as the aggregate level (e.g., item responses, conversions, clicks and budget allocations) and their computational efficient estimation within probabilistic (exact and approximate Bayesian) formulations. I'm also working on topics related to generalized linear and semiparametric mixed models for non-linear or temporal patterns in (large-scale) panel data structures, auxiliary information and prior specifications, and uncertainty quantification in predictions (quantile models, deep ensembles, probabilistic neural networks).
 
-On this site you can find more information on my [Academic Background](https://kagruber2412.github.io/cv/), my [Research](https://kagruber2412.github.io/pages/research.html) (puplications, working papers, etc.), my [Teaching & Supervision Activities](https://kagruber2412.github.io/teaching/), and a few other (possibly interesting) things.  
+On this site you can find more information on my [Academic Background](https://kagruber2412.github.io/cv/) (education, appointments, academic activities), my [Research](https://kagruber2412.github.io/pages/research.html) (puplications, working papers), my [Teaching & Supervision Activities](https://kagruber2412.github.io/teaching/), and a few other (possibly interesting) things.  
 
 
 <!--
