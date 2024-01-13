@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "@kagruber24"
+  username               : &twitter 
 facebook:
   username               :
   app_id                 :
@@ -109,7 +109,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@kagruber24"
   vine             :
   weibo            :
   xing             :
