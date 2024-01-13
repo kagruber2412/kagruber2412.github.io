@@ -8,4 +8,5 @@ date: 2022-01-01
 location: "Rotterdam, The Netherlands"
 ---
 
-I am co-promoting the (second year) PhD candidate [Markus Mueller](https://businessdatascience.nl/person/1788/markus-mueller) together with Prof. Dr. [Dennis Fok](https://www.eur.nl/people/dennis-fok) on [Denoising Diffusion Probabilistic Neural Networks for mixed type tabular data](https://arxiv.org/abs/2312.10431). <br>
+I am co-promoting the (second year) PhD candidate [Markus Mueller](https://businessdatascience.nl/person/1788/markus-mueller) together with Prof. Dr. [Dennis Fok](https://www.eur.nl/people/dennis-fok) on [Denoising Diffusion Probabilistic Neural Networks for mixed type tabular data](https://arxiv.org/abs/2312.10431). 
+<p style="margin:0;line-height:0;height:17px"></p>
