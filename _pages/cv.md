@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Below, you find a short description on my **Background** (education, appointments), my **Academic Activities**, (some notable) **Expertise and Skills**. You can also download my [full CV](addhereurl) in pdf format.
+Below, you find a short description on my **Background** (education, appointments), my **Academic Activities** (conference organisations, board memberships), and (some notable) **Expertise and Skills**. You can also download my [full CV](addhereurl) in pdf format.
 
 <h2>Education</h2>
 
