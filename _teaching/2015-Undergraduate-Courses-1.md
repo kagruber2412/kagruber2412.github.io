@@ -8,10 +8,10 @@ date: 2013-01-01
 location: "Vienna, Austria"
 ---
 
-* Marketing Research Design and Analysis [[Description](https://learn.wu.ac.at/vvz/17s/5308)]
-* Introduction to Programming with R [[Description](https://learn.wu.ac.at/vvz/17s/5308)]
-* Statistics for Economics and Socio-Economics with R [[Description](https://learn.wu.ac.at/vvz/16s/4992)]
-* Marketing Research [[Description](https://learn.wu.ac.at/vvz/17w/0063), [Codes](https://github.com/kagruber2412/Marketing_Research), [Slides](https://github.com/kagruber2412/Marketing_Research/tree/master/Slides)]
+* Marketing Research Design and Analysis [[Course](https://learn.wu.ac.at/vvz/17s/5308)]
+* Introduction to Programming with R [[Course](https://learn.wu.ac.at/vvz/17s/5308)]
+* Statistics for Economics and Socio-Economics with R [[Course](https://learn.wu.ac.at/vvz/16s/4992)]
+* Marketing Research [[Course](https://learn.wu.ac.at/vvz/17w/0063), [Codes](https://github.com/kagruber2412/Marketing_Research), [Slides](https://github.com/kagruber2412/Marketing_Research/tree/master/Slides)]
 
 
 <!--
