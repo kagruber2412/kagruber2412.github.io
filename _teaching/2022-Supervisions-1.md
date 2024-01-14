@@ -2,7 +2,7 @@
 title: "Supervisions"
 collection: teaching
 type: "PhD Supervisions"
-excerpt: "* [Markus Mueller](https://businessdatascience.nl/person/1788/markus-mueller) (second year)"
+excerpt: "* [Markus Mueller](https://businessdatascience.nl/person/1788/markus-mueller) (planned date of defense 2026)"
 permalink: /teaching/2022-Supervisions-1
 venue: "Erasmus University Rotterdam, Department of Econometrics"
 date: 2022-01-01
