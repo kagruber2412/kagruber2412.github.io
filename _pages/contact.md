@@ -11,11 +11,13 @@ redirect_from:
 
 <address>
 Department of Econometrics<br />
+<p style="margin:0;line-height:0;height:0"></p>
 <b>Visiting Adress</b><br />
 Erasmus School of Economics<br /> 
 Burgemeester Oudlaan 50, 3062 PA Rotterdam<br />
+<p style="margin:0;line-height:0;height:0"></p>
 <b>Postal address</b><br />
-Postbus 1738, 3000 DR Rotterdam<br />
+PO Box 1738, 3000 DR Rotterdam<br />
 The Netherlands
 </address>
 <br />
