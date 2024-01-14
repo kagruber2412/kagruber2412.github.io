@@ -20,7 +20,7 @@ Burgemeester Oudlaan 50, 3062 PA Rotterdam<br />
 PO Box 1738, 3000 DR Rotterdam<br />
 The Netherlands
 </address>
-<br />
+
 * E-mail: gruber@ese.eur.nl
 * On the [EUR-Web](https://www.eur.nl/people/kathrin-gruber) 
 
