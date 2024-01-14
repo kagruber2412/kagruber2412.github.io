@@ -22,6 +22,6 @@ The Netherlands
 </address>
 
 E-mail: gruber@ese.eur.nl<br />
-On the [EUR-Web](https://www.eur.nl/people/kathrin-gruber) 
+[EUR-Web presentation](https://www.eur.nl/people/kathrin-gruber) 
 
 
