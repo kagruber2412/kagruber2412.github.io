@@ -21,5 +21,7 @@ PO Box 1738, 3000 DR Rotterdam<br />
 The Netherlands
 </address>
 <br />
-gruber@ese.eur.nl
+* E-mail: gruber@ese.eur.nl
+* On the [EUR-Web](https://www.eur.nl/people/kathrin-gruber) 
+
 
