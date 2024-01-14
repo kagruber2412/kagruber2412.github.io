@@ -2,10 +2,7 @@
 title: "Courses at WU"
 collection: teaching
 type: "Undergraduate Courses"
-excerpt: "* Marketing Research Design and Analysis [[Course Overview](https://learn.wu.ac.at/vvz/17s/5308)]
-* Introduction to Programming with R [[Course Overview](https://learn.wu.ac.at/vvz/17s/5308)]
-* Statistics for Economics and Socio-Economics with R [[Course Overview](https://learn.wu.ac.at/vvz/16s/4992)]
-* Marketing Research [[Course Overview](https://learn.wu.ac.at/vvz/17w/0063), [Slides](https://github.com/kagruber2412/Marketing_Research/tree/master/Slides), [Codes](https://github.com/kagruber2412/Marketing_Research)]"
+excerpt: "* Marketing Research Design and Analysis [[Course Overview](https://learn.wu.ac.at/vvz/17s/5308)] * Introduction to Programming with R [[Course Overview](https://learn.wu.ac.at/vvz/17s/5308)] * Statistics for Economics and Socio-Economics with R [[Course Overview](https://learn.wu.ac.at/vvz/16s/4992)] * Marketing Research [[Course Overview](https://learn.wu.ac.at/vvz/17w/0063), [Slides](https://github.com/kagruber2412/Marketing_Research/tree/master/Slides), [Codes](https://github.com/kagruber2412/Marketing_Research)]"
 permalink: /teaching/2013-Undergraduate-Courses-1
 venue: "WU Vienna University of Business and Economics, Department of Marketing"
 date: 2013-01-01
