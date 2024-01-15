@@ -10,10 +10,10 @@ redirect_from:
 {% include base_path %}
 
 <address>
-Department of Econometrics<br />
+Econometric Institute<br />
+Erasmus University Rotterdam<br /> 
 <p style="margin:0;line-height:0;height:0"></p>
 <b>Visiting Adress</b><br />
-Erasmus School of Economics<br /> 
 Burgemeester Oudlaan 50, 3062 PA Rotterdam<br />
 <p style="margin:0;line-height:0;height:0"></p>
 <b>Postal address</b><br />
