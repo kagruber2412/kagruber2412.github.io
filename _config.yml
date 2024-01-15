@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Assistant Professor"
   avatar           : "profile.png"
-  bio              : "<a href='https://www.eur.nl/en/ese/department-econometrics'>Department of Econometrics</a>,<br><a href='https://www.eur.nl/en/ese'>Erasmus School of Economics</a>,<br><a href='https://www.eur.nl/en'>Erasmus University Rotterdam</a>"
+  bio              : "<a href='https://www.eur.nl/en/ese/department-econometrics'>Econometric Institute</a>,<br><a href='https://www.eur.nl/en'>Erasmus University Rotterdam</a>" #"<a href='https://www.eur.nl/en/ese/department-econometrics'>Department of Econometrics</a>,<br><a href='https://www.eur.nl/en/ese'>Erasmus School of Economics</a>,<br><a href='https://www.eur.nl/en'>Erasmus University Rotterdam</a>"
   location         : "Rotterdam, NL"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
