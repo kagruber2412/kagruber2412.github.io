@@ -20,7 +20,7 @@ Below, you find a short description on my background, my academic activities, an
 
 <h2>Academic Positions</h2>
 
-* Assistant Professor (with tenure), 2018-present.<br>
+* Assistant Professor, 2018-present.<br>
   Department of Econometrics, Erasmus School of Economics, Erasmus University Rotterdam,<br>
   Rotterdam, The Netherlands. 
 
