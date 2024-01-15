@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Below, you find a short description on my background, my academic activities, and (some notable) expertise and skills. You can also download my [full CV](addhereurl) in pdf format.
+Below, you find a short description on my background, my academic activities, and (some notable) expertise and skills. You can also download my [full CV](https://www.dropbox.com/scl/fi/03ifdv98m3hnvd2zmehob/CV_Kathrin_Gruber.pdf?rlkey=9uyqi866isx29ezzagf3o8y0k&dl=0) in pdf format.
 
 <h2>Education</h2>
 
