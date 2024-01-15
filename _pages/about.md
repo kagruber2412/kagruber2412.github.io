@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- intro with more links:
-Hi! I'm Kathrin and I'm an [Assistant Professor](https://www.eur.nl/people/kathrin-gruber) at the [Department of Econometrics](https://www.eur.nl/en/ese/department-econometrics) at [Erasmus University Rotterdam](https://www.eur.nl). I received my PhD in Economics & Social Sciences from [Vienna University of Economics and Business](https://www.wu.ac.at/en/), my MSc in Quantitative Psychology and my BSc in Mathematics & Statistics from [University of Vienna](https://www.univie.ac.at/en/).
+Hi! I'm Kathrin and I'm an [Assistant Professor](https://www.eur.nl/people/kathrin-gruber) at the [Department of Econometrics](https://www.eur.nl/en/ese/department-econometrics) at [Erasmus School of Economis](https://www.eur.nl/en/ese) in Rotterdam. I received my PhD in Economics & Social Sciences from [Vienna University of Economics and Business](https://www.wu.ac.at/en/), my MSc in Quantitative Psychology and my BSc in Mathematics & Statistics from [University of Vienna](https://www.univie.ac.at/en/).
 -->
 
 I'm Kathrin and I'm an [Assistant Professor](https://www.eur.nl/people/kathrin-gruber) at the [Department of Econometrics](https://www.eur.nl/en/ese/department-econometrics) at [Erasmus University Rotterdam](https://www.eur.nl). I received my PhD in Economics & Social Sciences from Vienna University of Economics and Business, my MSc in Quantitative Psychology and my BSc in Mathematics & Statistics from University of Vienna.
