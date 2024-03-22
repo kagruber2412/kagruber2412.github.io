@@ -18,6 +18,7 @@ Below, you find a short description on my background, my academic activities, an
 * Mag.rer.nat. (MSc equivalent), Quantitative Psychology, [University of Vienna](https://www.univie.ac.at/en/), 2009.
 
 
+<!--
 <h2>Academic Positions</h2>
 
 * Assistant Professor, 2018-present.<br>
@@ -42,7 +43,7 @@ Below, you find a short description on my background, my academic activities, an
 * Organizer of the [9th International Workshop on Psychometric Computing](https://www.psychoco.org/2017/index.html) (February 9–10, 2017), Vienna, Austria.
 * Organizer of the 11th meeting of the Vereniging voor Ordinatie en Classificatie (June, 2023), Rotterdam, The Netherlands. 
 * Organizer of the [16th International Workshop on Psychometric Computing](https://www.psychoco.org/2024/index.html) (February 29-March 1, 2024), Rotterdam, The Netherlands.
-
+-->
   
 <h2>Services</h2>
 
