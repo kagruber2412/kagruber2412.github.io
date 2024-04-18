@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Below, you find a short description on my background, my academic activities, and (some notable) expertise and skills. You can also download my [full CV](https://www.dropbox.com/scl/fi/03ifdv98m3hnvd2zmehob/CV_Kathrin_Gruber.pdf?rlkey=9uyqi866isx29ezzagf3o8y0k&dl=0) in pdf format.
+Below, you find a short description on my background, my academic activities, and (some notable) expertise and skills. 
 
 <h2>Education</h2>
 
@@ -17,8 +17,9 @@ Below, you find a short description on my background, my academic activities, an
 * Mag.rer.nat. (MSc equivalent), Quantitative Psychology, [University of Vienna](https://www.univie.ac.at/en/).
 * BSc, Mathematics and Statistics, [University of Vienna](https://www.univie.ac.at/en/).
 
-
 <!--
+You can also download my [full CV](https://www.dropbox.com/scl/fi/03ifdv98m3hnvd2zmehob/CV_Kathrin_Gruber.pdf?rlkey=9uyqi866isx29ezzagf3o8y0k&dl=0) in pdf format.
+
 <h2>Academic Positions</h2>
 
 * Assistant Professor, 2018-present.<br>
