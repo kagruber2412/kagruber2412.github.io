@@ -14,7 +14,11 @@ Hi! I'm Kathrin and I'm an [Assistant Professor](https://www.eur.nl/people/kathr
 
 I'm Kathrin and I'm an [Assistant Professor](https://www.eur.nl/people/kathrin-gruber)  at the [Department of Econometrics](https://www.eur.nl/en/ese/department-econometrics) at [Erasmus School of Economis](https://www.eur.nl/en/ese) in Rotterdam. I received my PhD in Economics & Social Sciences from Vienna University of Economics and Business, my MSc in Quantitative Psychology and my BSc in Mathematics & Statistics from University of Vienna.
 
-Accordingly, my field of research is <b>Applied Econometrics</b> and in particular, the combination of <b>Quantitative Marketing</b> and <b>Psychometric Methods</b>. This includes statistical models for decisions at the individual as well as the aggregate level (e.g., item responses, product choices, user conversions, but also budget allocation) and their computational efficient estimation within probabilistic (exact & approximate Bayesian) formulations. I'm also working on topics related to generalized linear/semiparametric mixed models, auxiliary information and prior specifications, uncertainty quantification in predictions (quantile models, deep ensembles) and probabilistic neural networks.
+<!--
+Accordingly, my field of research is <b>Applied Econometrics</b> and in particular, the combination of <b>Quantitative Marketing</b> and [<b>Psychometric Methods</b>](https://en.wikipedia.org/wiki/Psychometrics). 
+-->
+Accordingly, my field of research is on <b>high-dimensional econometric methods</b> with applications in <b>Marketing</b> and <b>Psychometrics</b>.
+This includes statistical models for decisions at the individual as well as the aggregate level (e.g., item responses, product choices, user conversions, but also budget allocation) and their computational efficient estimation within probabilistic (exact & approximate Bayesian) formulations. I'm also working on topics related to generalized linear/semiparametric mixed models, auxiliary information and prior specifications, uncertainty quantification in predictions (quantile models, deep ensembles) and probabilistic neural networks.
 
 On this site you can find more information on my [Academic Background](https://kagruber2412.github.io/cv/) (education, appointments, academic activities), my [Research](https://kagruber2412.github.io/pages/research.html) (publications, working papers), my [Teaching & Supervision Activities](https://kagruber2412.github.io/teaching/), and a few other (possibly interesting) things.  
 
