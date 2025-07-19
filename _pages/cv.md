@@ -42,10 +42,15 @@ You can also download my [full CV](https://www.dropbox.com/scl/fi/03ifdv98m3hnvd
 <h2>Services</h2>
 
 * [Psychometric Task View](https://CRAN.R-project.org/view=Psychometrics): Maintainer.
-* [Vereniging voor Ordinatie en Classificatie](https://voc.ac) (Dutch/ Flemisch Classification Society): Board member.
+* [Vereniging voor Ordinatie en Classificatie](https://voc.ac) (Dutch/ Flemisch Classification Society): Board member (secretary).
 * [Journal of Statistical Software](https://www.jstatsoft.org/index): Editorial (replication) board member.
-* [Erasmus Research Institute of Management](https://www.erim.eur.nl): Associate member.
-* [Sector plan SSH Breed (Theme 4: digital decision support)](https://www.eur.nl/en/research/research-groups-initiatives/sectorplan-ssh-breed/digital-decision-support): Member.
+
+<h2>Memberships</h2>
+
+* [International Federation of Classification Societies](https://ifcs.boku.ac.at/site/doku.php)
+* [Erasmus Research Institute of Management](https://www.erim.eur.nl)
+* [Sector plan SSH Breed (Theme 4: digital decision support)](https://www.eur.nl/en/research/research-groups-initiatives/sectorplan-ssh-breed/digital-decision-support)
+
 
 <h2>Conferences</h2>
 
