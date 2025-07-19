@@ -43,13 +43,16 @@ You can also download my [full CV](https://www.dropbox.com/scl/fi/03ifdv98m3hnvd
 
 * [Psychometric Task View](https://CRAN.R-project.org/view=Psychometrics): Maintainer.
 * [Vereniging voor Ordinatie en Classificatie](https://voc.ac) (Dutch/ Flemisch Classification Society): Board member.
-* [Journal of Statistical Software](https://www.jstatsoft.org/index): Editorial (replication) board.
+* [Journal of Statistical Software](https://www.jstatsoft.org/index): Editorial (replication) board member.
+* [Erasmus Research Institute of Management](https://www.erim.eur.nl): Associate member.
+* [Sector plan SSH Breed (Theme 4: digital decision support)](https://www.eur.nl/en/research/research-groups-initiatives/sectorplan-ssh-breed/digital-decision-support): Member.
 
 <h2>Conferences</h2>
 
-* Organizer of the [9th International Workshop on Psychometric Computing](https://www.psychoco.org/2017/index.html) (February 9–10, 2017), Vienna, Austria.
-* Organizer of the 11th meeting of the Vereniging voor Ordinatie en Classificatie (June, 2023), Rotterdam, The Netherlands. 
+* Organizer of the 35th Anniversary Meeting of the Dutch/Flemish Classification Society (November 21-22, 2024), Leusden, The Netherlands. 
 * Organizer of the [16th International Workshop on Psychometric Computing](https://www.psychoco.org/2024/index.html) (February 29-March 1, 2024), Rotterdam, The Netherlands.
+* Organizer of the 11th meeting of the Vereniging voor Ordinatie en Classificatie (June 2, 2023), Rotterdam, The Netherlands. 
+* Organizer of the [9th International Workshop on Psychometric Computing](https://www.psychoco.org/2017/index.html) (February 9–10, 2017), Vienna, Austria.
 
 <h2>Refereeing</h2>
 
