@@ -43,7 +43,7 @@ You can also download my [full CV](https://www.dropbox.com/scl/fi/03ifdv98m3hnvd
 
 * [Psychometric Task View](https://CRAN.R-project.org/view=Psychometrics): Maintainer.
 * [Vereniging voor Ordinatie en Classificatie](https://voc.ac) (Dutch/ Flemisch Classification Society): Board member.
-* [Journal of Statistical Software](https://www.jstatsoft.org/index): Editorial board member.
+* [Journal of Statistical Software](https://www.jstatsoft.org/index): Editorial (replication) board.
 
 <h2>Conferences</h2>
 
