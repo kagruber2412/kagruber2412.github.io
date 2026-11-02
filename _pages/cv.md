@@ -54,18 +54,22 @@ You can also download my [full CV](https://www.dropbox.com/scl/fi/03ifdv98m3hnvd
 
 <h2>Conferences</h2>
 
+* Organizer of the 15th meeting of the Vereniging voor Ordinatie en Classificatie (March 19, 2027), Rotterdam, The Netherlands.
+* Organizer of the [European Seminar on Bayesian Econometrics](https://esobe.org/) (August, 2027), Rotterdam, The Netherlands. 
 * Organizer of the 35th Anniversary Meeting of the Dutch/Flemish Classification Society (November 21-22, 2024), Leusden, The Netherlands. 
 * Organizer of the [16th International Workshop on Psychometric Computing](https://www.psychoco.org/2024/index.html) (February 29-March 1, 2024), Rotterdam, The Netherlands.
 * Organizer of the 11th meeting of the Vereniging voor Ordinatie en Classificatie (June 2, 2023), Rotterdam, The Netherlands. 
 * Organizer of the [9th International Workshop on Psychometric Computing](https://www.psychoco.org/2017/index.html) (February 9–10, 2017), Vienna, Austria.
 
+<!--
 <h2>Refereeing</h2>
 
 Journal of Statistical Software, BMC Bioinformatics, Journal of Data Science Statistics and Visualizations, Journal of Population Aging.
+-->
 
 <h2>Skills and Expertises</h2>
 
-* (Preferred) programming languages: R, C++, Phyton, Julia (others: JavaScript, TeX/LaTeX, Markdown, ...)
+* (Proficient) programming languages: R, C++, Phyton, Julia (others: JavaScript, TeX/LaTeX, Markdown, ...)
 * Human languages: Austrian / German (native), English (fluent), Dutch (passive), French, Italian
 
   
